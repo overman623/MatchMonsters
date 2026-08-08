@@ -1,0 +1,9 @@
+Kenney Impact Sounds (CC0 1.0)
+Source: https://kenney.nl/assets/impact-sounds
+Mirror used: https://github.com/ETdoFresh/kenney.nl
+
+Files used in this project:
+- monster_hit.ogg ← impactPunch_medium_000.ogg
+- monster_timed_attack.ogg ← impactPunch_heavy_000.ogg
+
+License: Creative Commons CC0 1.0 Universal (public domain). Commercial use allowed; attribution not required.
